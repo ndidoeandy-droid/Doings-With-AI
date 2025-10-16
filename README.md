@@ -1,0 +1,1 @@
+This project leverages AI to analyze and predict patterns from structured and unstructured data, combining numerical and textual inputs for actionable insights. It demonstrates practical applications of machine learning techniques, including regression, classification, and neural networks, in real-world scenarios.
